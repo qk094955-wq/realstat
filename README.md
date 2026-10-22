@@ -1,4 +1,3 @@
-# realstat
 # Real Estate Management Dashboard
 
 An interactive, modern, and professional-looking Real Estate Management Dashboard built with **Python** and **Streamlit**. Designed specifically as a beginner-friendly, comprehensive university project for BS Computer Science or BS Data Science students.
